@@ -34,3 +34,7 @@ https://youtu.be/fD0t_DKREbE?si=S2MNePVj0NLxIDap
 
 # Different copy types
 https://youtu.be/l_YFa0SKqtY?si=qX5pbENJxgL2AhbM
+
+#Prerequisite before starting IPL Project
+https://rentry.co/7z5nm2em
+
