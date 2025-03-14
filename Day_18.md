@@ -22,3 +22,9 @@
 14. How to do error handling when using promises?
 15. Why is error handling the most important part of using a promise?
 16. How to promisify an asynchronous callbacks based function - eg. setTimeout, fs.readFile
+17. Promise.resolve
+18. Promise.reject
+19. Promise.all
+20. Promise.allSettled
+21. Promise.any
+22. Promise.race
