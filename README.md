@@ -40,3 +40,11 @@ https://rentry.co/7z5nm2em
 
 # Async JS before starting
 https://rentry.co/awiufffx
+
+# Resources for Promises 
+1. https://youtu.be/vC5cqCwz7W8
+2. https://youtu.be/yYDK4I2QjJY
+3. https://youtu.be/SCD_cG2hMmQ
+4. https://youtu.be/ulb3FIwTqXw
+5. https://youtu.be/6Qx2GxKM9CQ
+6. https://youtu.be/ZibQxER-ARE (
