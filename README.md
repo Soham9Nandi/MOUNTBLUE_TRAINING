@@ -47,4 +47,18 @@ https://rentry.co/awiufffx
 3. https://youtu.be/SCD_cG2hMmQ
 4. https://youtu.be/ulb3FIwTqXw
 5. https://youtu.be/6Qx2GxKM9CQ
-6. https://youtu.be/ZibQxER-ARE (
+6. https://youtu.be/ZibQxER-ARE
+7. http://latentflip.com/loupe/
+8. https://www.jsv9000.app/
+
+
+# Leetcode
+https://leetcode.com/studyplan/30-days-of-javascript/
+
+# HTTP SQL and WEBAPP
+1. https://github.com/mountblue/javascript-full-stack-path/blob/master/4.%20web-app-architecture/1.%20web-app-architecture.md
+2. https://sqlbolt.com/
+3. https://github.com/mountblue/javascript-full-stack-path/blob/master/4.%20web-app-architecture/1.%20web-app-architecture.md
+4. https://www.freecodecamp.org/news/how-the-web-works-a-primer-for-newcomers-to-web-development-or-anyone-really-b4584e63585c#.8nc8nkx2u
+5. https://www.freecodecamp.org/news/how-the-web-works-part-ii-client-server-model-the-structure-of-a-web-application-735b4b6d76e3/
+6. https://www.freecodecamp.org/news/an-introduction-to-software-architecture-patterns/
