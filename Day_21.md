@@ -7,4 +7,5 @@
 7. Completed Async AWait video of Namaste JS
 8. Leetcode
 9. Refactored drill number 2
-10. 
+10. Refactored drill number 1
+    
