@@ -58,7 +58,11 @@ https://leetcode.com/studyplan/30-days-of-javascript/
 # HTTP SQL and WEBAPP
 1. https://github.com/mountblue/javascript-full-stack-path/blob/master/4.%20web-app-architecture/1.%20web-app-architecture.md
 2. https://sqlbolt.com/
-3. https://github.com/mountblue/javascript-full-stack-path/blob/master/4.%20web-app-architecture/1.%20web-app-architecture.md
-4. https://www.freecodecamp.org/news/how-the-web-works-a-primer-for-newcomers-to-web-development-or-anyone-really-b4584e63585c#.8nc8nkx2u
-5. https://www.freecodecamp.org/news/how-the-web-works-part-ii-client-server-model-the-structure-of-a-web-application-735b4b6d76e3/
-6. https://www.freecodecamp.org/news/an-introduction-to-software-architecture-patterns/
+
+# DOM RESOURCES
+1. https://www.markdownpaste.com/document/0a2889
+
+4. https://github.com/mountblue/javascript-full-stack-path/blob/master/4.%20web-app-architecture/1.%20web-app-architecture.md
+5. https://www.freecodecamp.org/news/how-the-web-works-a-primer-for-newcomers-to-web-development-or-anyone-really-b4584e63585c#.8nc8nkx2u
+6. https://www.freecodecamp.org/news/how-the-web-works-part-ii-client-server-model-the-structure-of-a-web-application-735b4b6d76e3/
+7. https://www.freecodecamp.org/news/an-introduction-to-software-architecture-patterns/
